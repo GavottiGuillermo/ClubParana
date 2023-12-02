@@ -1,0 +1,6 @@
+34873631**Guillermo**Gavotti**1165031329**34**1234**Arg**Sol**Sistemas**15/11/1989**San Martín 356**Zárate**gavottiguillermo@gmail.com**Cristina**1165031351**009**15/11/1999**12366**null**null**Activo
+40221664**Luisina**Olivieri**116111344431**26**5544**Argentina**Soltera**Profesora**04/01/1997**San Martín 356**Zárate**luisinaolivieri@gmail.com**Alicia Brizuela**4116113544**009**15/10/2005**116741**null**null**Activo
+40221664**Luisina Lu**Olivieri**116111344431**26**5544**Argentina**Soltera**Profesora**04/01/1997**San Martín 356**Zárate**luisinaolivieri@gmail.com**Alicia Brizuela**4116113544**009**15/10/2005**116741**null**null**Activo
+401123323**Carlos**Ramonda**461116441**55**55461**Argentina**Soltero**Albañil**15/10/2000**Castañeda 25**Campana**carlosRamo@gmail.com**null**null**null**15/5/2010**25213**null**null**Activo
+203326321**Salvio**Aristimuño**446131**25**564641**Argentina**Casado**Martillero**15/1/1980**Santiago 123**Atucha**salvio123@hotmail.com**null**null**null**1/10/2000**005**null**null**Activo
+401123323**Carlos2**Ramonda**461116441**55**55461**Argentina**Soltero**Albañil**15/10/2000**Castañeda 25**Campana**carlosRamo@gmail.com**null**null**null**15/5/2010**25213**null**null**Activo
