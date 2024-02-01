@@ -1,0 +1,11 @@
+.table-column-left-aligned .table-column {
+    -fx-alignment: CENTER_LEFT;
+}
+/* Estilo para el campo deshabilitado */
+.text-field:disabled {
+    -fx-opacity: 1.0; /* Ajusta la opacidad para mantener el texto más nítido */
+    -fx-text-fill: black; /* Cambia el color del texto a negro o un color que contraste bien */
+    /* Otros estilos opcionales para mejorar la nitidez del texto */
+    -fx-background-color: white; /* Establece el color de fondo si es necesario */
+    -fx-border-color: gray; /* Establece un color de borde */
+}
